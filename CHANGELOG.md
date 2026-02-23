@@ -1,5 +1,10 @@
 # Changelog
 
+## [Unreleased]
+
+### Added
+- feat: add SessionConfiguration with proxy, extensions, and profile support for browser sessions (#274)
+
 ## [1.3.1] - 2026-02-17
 
 ### Fixed
